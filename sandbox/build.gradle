@@ -1,0 +1,3 @@
+apply plugin: 'apllication'
+mainClassName="Program"
+apply plugin: 'java'
